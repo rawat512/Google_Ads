@@ -1,4 +1,4 @@
-
+![Screenshot 2024-03-10 224325](https://github.com/rawat512/Google_Ads/assets/159688702/36b5ef98-516a-4473-80ed-39bcb517665a)    ![Screenshot 2024-03-10 223559](https://github.com/rawat512/Google_Ads/assets/159688702/ad26ed35-1cf3-4d3c-9a98-8f66f08d3dbd)
 
 Created Google ads campaign for brand awareness according to a brand niche in the form of search ads, display ads, and video ads. Set a budget for all the ads, target relevant locations to get better reach, and keep the budget minimum. Used Google keyword research and analyzed it thoroughly based on the highest and lowest bids and the competition level in the market for the same keyword. 
 
